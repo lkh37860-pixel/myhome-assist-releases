@@ -1,20 +1,20 @@
 {
   "schema": 1,
-  "notes": "빌드 7: 두 앱 화면에 새 업데이트 자동 안내. 업데이트를 누르면 검증된 파일 다운로드를 시작합니다. Android 설치 확인은 필요합니다.",
+  "notes": "빌드 9: 홈 제어·음성 명령·날씨/검색·YouTube·F1 및 실행 복구. 기존 앱 위에 설치하세요. Google Home은 처음 집 접근 허용이 필요합니다. 유료 AI 키를 사용하지 않습니다.",
   "panel": {
     "package": "kr.homepanel.panel",
-    "versionCode": 7,
+    "versionCode": 9,
     "versionName": "1.0-beta",
-    "url": "https://github.com/lkh37860-pixel/myhome-assist-releases/releases/download/v1.0-beta-build7/home-panel-1.0-beta.apk",
-    "sha256": "133be1010f61af083e4921388fce3ed1b2fe18757ea8d1cdf568388970a9105c",
-    "bytes": 6389762
+    "url": "https://github.com/lkh37860-pixel/myhome-assist-releases/releases/download/v1.0-beta-build9/home-panel-1.0-beta.apk",
+    "sha256": "e64281d38a4bcf040c80bf338570fce22944092f2afd0f2de6a2fcd288ea1c3e",
+    "bytes": 35453749
   },
   "admin": {
     "package": "kr.homepanel.admin",
-    "versionCode": 7,
+    "versionCode": 9,
     "versionName": "1.0-beta",
-    "url": "https://github.com/lkh37860-pixel/myhome-assist-releases/releases/download/v1.0-beta-build7/home-manager-1.0-beta.apk",
-    "sha256": "d656e124d7961b394375d557344aaf23984679ae91f3a6ff510bd162ae63d062",
-    "bytes": 5698022
+    "url": "https://github.com/lkh37860-pixel/myhome-assist-releases/releases/download/v1.0-beta-build9/home-manager-1.0-beta.apk",
+    "sha256": "3ca16cfd033356cce16dc6159221418e3d1f94e9bb39db141bbda0b046c29b4d",
+    "bytes": 34761809
   }
 }
