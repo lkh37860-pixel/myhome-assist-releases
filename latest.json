@@ -1,20 +1,20 @@
 {
   "schema": 1,
-  "notes": "빌드 6: 터치로 깨우는 검은 대기 화면, 홈 버튼과 자동 복귀, 로그인 없는 앱 업데이트와 새 버전 알림. Android 설치 확인은 필요합니다.",
+  "notes": "빌드 7: 두 앱 화면에 새 업데이트 자동 안내. 업데이트를 누르면 검증된 파일 다운로드를 시작합니다. Android 설치 확인은 필요합니다.",
   "panel": {
     "package": "kr.homepanel.panel",
-    "versionCode": 6,
+    "versionCode": 7,
     "versionName": "1.0-beta",
-    "url": "https://github.com/lkh37860-pixel/myhome-assist-releases/releases/download/v1.0-beta-build6/home-panel-1.0-beta.apk",
-    "sha256": "64cbe9c07603ea84150e5bd0ca8d374d78e0f85f6728ebf6dd206ac04a24a832",
-    "bytes": 6386894
+    "url": "https://github.com/lkh37860-pixel/myhome-assist-releases/releases/download/v1.0-beta-build7/home-panel-1.0-beta.apk",
+    "sha256": "133be1010f61af083e4921388fce3ed1b2fe18757ea8d1cdf568388970a9105c",
+    "bytes": 6389762
   },
   "admin": {
     "package": "kr.homepanel.admin",
-    "versionCode": 6,
+    "versionCode": 7,
     "versionName": "1.0-beta",
-    "url": "https://github.com/lkh37860-pixel/myhome-assist-releases/releases/download/v1.0-beta-build6/home-manager-1.0-beta.apk",
-    "sha256": "896e63a0625266839750491c0bf9569d8ddf122ead038b7c42871a4dcd5ee864",
-    "bytes": 5695174
+    "url": "https://github.com/lkh37860-pixel/myhome-assist-releases/releases/download/v1.0-beta-build7/home-manager-1.0-beta.apk",
+    "sha256": "d656e124d7961b394375d557344aaf23984679ae91f3a6ff510bd162ae63d062",
+    "bytes": 5698022
   }
 }
