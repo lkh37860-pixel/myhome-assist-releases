@@ -1,9 +1,14 @@
-# 마이홈 어시스트 · 베타 1.0 빌드 9
+# 마이홈 어시스트
+
+**관리폰 긴급 패치 · 빌드 10 배포** — [관리폰 APK 받기](https://github.com/lkh37860-pixel/myhome-assist-releases/releases/download/v1.0-beta-phone-build10/home-manager-1.0-beta.apk)
+
+태블릿 초기화 후 연결을 못해 등록 해제가 막힐 때: 관리 앱에서 **태블릿 초기화 · 다시 연결 → 이 폰에서 지우기**를 누르고 새 QR로 등록하세요. 기존 앱을 삭제하지 않고 덮어 설치합니다. 태블릿은 빌드 9를 유지합니다.
+
 
 기존 앱을 삭제하지 말고 새 APK를 위에 설치하세요. 앱이 열리지 않아도 브라우저에서 받아 설치할 수 있습니다. 공장 초기화가 필요하지 않습니다.
 
 - [태블릿용 APK](https://github.com/lkh37860-pixel/myhome-assist-releases/releases/download/v1.0-beta-build9/home-panel-1.0-beta.apk)
-- [관리폰용 APK — LG 벨벳 등](https://github.com/lkh37860-pixel/myhome-assist-releases/releases/download/v1.0-beta-build9/home-manager-1.0-beta.apk)
+- [관리폰용 APK — LG 벨벳 등](https://github.com/lkh37860-pixel/myhome-assist-releases/releases/download/v1.0-beta-phone-build10/home-manager-1.0-beta.apk)
 - [설치·태블릿 설정·Google Home 연결 안내](TABLET_SETUP.md)
 - [배포 내용](https://github.com/lkh37860-pixel/myhome-assist-releases/releases/tag/v1.0-beta-build9)
 

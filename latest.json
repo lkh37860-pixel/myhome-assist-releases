@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "notes": "빌드 9: 홈 제어·음성 명령·날씨/검색·YouTube·F1 및 실행 복구. 기존 앱 위에 설치하세요. Google Home은 처음 집 접근 허용이 필요합니다. 유료 AI 키를 사용하지 않습니다.",
+  "notes": "관리폰 빌드 10 긴급 패치: 태블릿 초기화·연결 불가 상태에서도 폰의 이전 등록 정보를 지우고 새 QR로 재등록할 수 있습니다. 태블릿은 빌드 9로 유지됩니다. 기존 앱 위에 설치하세요.",
   "panel": {
     "package": "kr.homepanel.panel",
     "versionCode": 9,
@@ -11,10 +11,10 @@
   },
   "admin": {
     "package": "kr.homepanel.admin",
-    "versionCode": 9,
+    "versionCode": 10,
     "versionName": "1.0-beta",
-    "url": "https://github.com/lkh37860-pixel/myhome-assist-releases/releases/download/v1.0-beta-build9/home-manager-1.0-beta.apk",
-    "sha256": "3ca16cfd033356cce16dc6159221418e3d1f94e9bb39db141bbda0b046c29b4d",
-    "bytes": 34761809
+    "url": "https://github.com/lkh37860-pixel/myhome-assist-releases/releases/download/v1.0-beta-phone-build10/home-manager-1.0-beta.apk",
+    "sha256": "c31105741308d23799f5e904651e90e0c706f2244f6fb0871f676da79178471e",
+    "bytes": 34764341
   }
 }

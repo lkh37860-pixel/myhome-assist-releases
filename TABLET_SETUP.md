@@ -1,3 +1,5 @@
+> 관리폰 빌드 10 긴급 패치: [APK 다운로드](https://github.com/lkh37860-pixel/myhome-assist-releases/releases/download/v1.0-beta-phone-build10/home-manager-1.0-beta.apk). 태블릿 초기화 뒤 연결할 수 없으면 **태블릿 초기화 · 다시 연결 → 이 폰에서 지우기**로 폰의 이전 등록 정보를 지우고 새 QR로 등록하세요. 태블릿용 APK는 아래 빌드 9를 그대로 사용합니다.
+
 # 마이홈 어시스트 베타 1.0 · 빌드 9 설치 안내
 
 ## 이번에는 링크에서 덮어설치
