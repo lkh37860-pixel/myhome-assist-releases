@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "notes": "빌드 6: 터치로 깨우는 검은 대기 화면, 홈 버튼과 자동 복귀, 로그인 없는 앱 업데이트와 새 버전 알림. Android 설치 확인은 필요합니다.",
+  "panel": {
+    "package": "kr.homepanel.panel",
+    "versionCode": 6,
+    "versionName": "1.0-beta",
+    "url": "https://github.com/lkh37860-pixel/myhome-assist-releases/releases/download/v1.0-beta-build6/home-panel-1.0-beta.apk",
+    "sha256": "64cbe9c07603ea84150e5bd0ca8d374d78e0f85f6728ebf6dd206ac04a24a832",
+    "bytes": 6386894
+  },
+  "admin": {
+    "package": "kr.homepanel.admin",
+    "versionCode": 6,
+    "versionName": "1.0-beta",
+    "url": "https://github.com/lkh37860-pixel/myhome-assist-releases/releases/download/v1.0-beta-build6/home-manager-1.0-beta.apk",
+    "sha256": "896e63a0625266839750491c0bf9569d8ddf122ead038b7c42871a4dcd5ee864",
+    "bytes": 5695174
+  }
+}
