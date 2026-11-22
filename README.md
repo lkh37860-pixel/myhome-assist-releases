@@ -1,21 +1,22 @@
 # 마이홈 어시스트
 
-**관리폰 긴급 패치 · 빌드 10 배포** — [관리폰 APK 받기](https://github.com/lkh37860-pixel/myhome-assist-releases/releases/download/v1.0-beta-phone-build10/home-manager-1.0-beta.apk)
+**정식 1.2 · 빌드 11**
 
-태블릿 초기화 후 연결을 못해 등록 해제가 막힐 때: 관리 앱에서 **태블릿 초기화 · 다시 연결 → 이 폰에서 지우기**를 누르고 새 QR로 등록하세요. 기존 앱을 삭제하지 않고 덮어 설치합니다. 태블릿은 빌드 9를 유지합니다.
-
-
-기존 앱을 삭제하지 말고 새 APK를 위에 설치하세요. 앱이 열리지 않아도 브라우저에서 받아 설치할 수 있습니다. 공장 초기화가 필요하지 않습니다.
-
-- [태블릿용 APK](https://github.com/lkh37860-pixel/myhome-assist-releases/releases/download/v1.0-beta-build9/home-panel-1.0-beta.apk)
-- [관리폰용 APK — LG 벨벳 등](https://github.com/lkh37860-pixel/myhome-assist-releases/releases/download/v1.0-beta-phone-build10/home-manager-1.0-beta.apk)
+- [태블릿 APK 받기](https://github.com/lkh37860-pixel/myhome-assist-releases/releases/download/v1.2-build11/home-panel-1.2.apk)
+- [관리폰 APK 받기 — LG 벨벳 등](https://github.com/lkh37860-pixel/myhome-assist-releases/releases/download/v1.2-build11/home-manager-1.2.apk)
 - [설치·태블릿 설정·Google Home 연결 안내](TABLET_SETUP.md)
-- [배포 내용](https://github.com/lkh37860-pixel/myhome-assist-releases/releases/tag/v1.0-beta-build9)
+- [배포 내용](https://github.com/lkh37860-pixel/myhome-assist-releases/releases/tag/v1.2-build11)
 
-한국어 음성 입력·읽기, Google Home 지원 조명과 플러그 제어, 실제 날씨·검색, YouTube 공식 플레이어, F1 일정·세션별 알림·순위 카드를 제공합니다. Google Home은 본인 기기에서 처음 계정과 집 접근을 허용해야 합니다. 실제 기기와 지원 기능에 따라 달라집니다.
+기존 앱을 삭제하지 않고 위에 설치하세요. 앱이 열리지 않아도 브라우저에서 APK를 받아 설치할 수 있습니다. 다운로드와 업데이트에 GitHub 로그인이 필요하지 않습니다. 공장 초기화나 Device Owner 등록은 필요하지 않습니다.
 
-다음 새 버전은 앱에서 자동 안내합니다. 업데이트 버튼으로 앱 안에서 다운로드하며 Android 설치 확인은 필요합니다. 다운로드에는 GitHub 로그인이 필요하지 않습니다.
+작은 둥근 12시간제 시계, 시계 아래 날짜·요일, 오른쪽 아래 실제 날씨 아이콘·온도를 표시합니다. 날씨를 눌러 도시를 설정하세요. 정보가 없으면 --°로 표시하며, 저장된 예전 정보는 구분합니다.
 
-상시 호출어·자유로운 AI 대화·조명 기상 루틴은 후속 작업입니다. 이 버전은 유료 AI 키를 사용하지 않습니다.
+태블릿 빠른 메뉴의 **호출어 설정**에서 Wi-Fi로 인식 파일 약 87MB를 받고 켜면 **헤이, 서버**로 어시스트를 열 수 있습니다. 시작·종료에 요청한 F1 라디오 효과음을 재생하고, 답변은 한국어 음성으로 읽습니다. 호출어 감지는 패널·검은 대기 화면에서만 동작하며 다른 앱 또는 실제 화면 전원 꺼짐 상태에서는 듣지 않습니다.
 
-이 저장소는 APK와 배포·설치 정보를 위한 공개 저장소입니다. 앱 원본 코드·서명키·개인 기기 데이터는 포함하지 않습니다.
+PC·유료 AI 키 없이 기본 홈 제어·날씨·검색·F1·YouTube와 짧은 대화를 제공합니다. Google Home은 각 기기의 **설정 → Google Home 연결**에서 계정·집 접근을 한 번 허용하세요. 실제 지원 기기를 카드로 표시하고 누르면 상세 제어가 열립니다. 자유로운 추론·창작 LLM과 Google Home 기상 조명 예약은 포함하지 않습니다.
+
+태블릿 초기화 후 연결이 안 되면 관리 앱에서 **태블릿 초기화 · 다시 연결 → 이 폰에서 지우기**로 폰의 이전 등록 정보만 지우고 새 QR로 등록하세요.
+
+다음 새 버전은 앱에서 자동 안내하며 앱 안에서 다운로드합니다. 최종 설치 확인은 Android에서 허용해야 합니다. 백그라운드 안내는 절전·네트워크 상태에 따라 늦을 수 있습니다.
+
+이 공개 저장소에는 APK·체크섬·버전·설치 정보만 포함합니다. 앱 소스·서명키·개인 기기 데이터는 포함하지 않습니다.

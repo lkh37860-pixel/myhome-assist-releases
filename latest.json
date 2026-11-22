@@ -1,20 +1,20 @@
 {
   "schema": 1,
-  "notes": "관리폰 빌드 10 긴급 패치: 태블릿 초기화·연결 불가 상태에서도 폰의 이전 등록 정보를 지우고 새 QR로 재등록할 수 있습니다. 태블릿은 빌드 9로 유지됩니다. 기존 앱 위에 설치하세요.",
+  "notes": "정식 1.2: 작은 둥근 12시간제 시계·날짜·요일과 오른쪽 아래 실제 날씨, 헤이 서버 호출·음성 답변·F1 라디오 효과음, Google Home 기기 상세 제어를 추가했습니다. 기존 앱 위에 설치하세요. 호출어는 빠른 메뉴에서 인식 파일을 받은 뒤 켭니다.",
   "panel": {
     "package": "kr.homepanel.panel",
-    "versionCode": 9,
-    "versionName": "1.0-beta",
-    "url": "https://github.com/lkh37860-pixel/myhome-assist-releases/releases/download/v1.0-beta-build9/home-panel-1.0-beta.apk",
-    "sha256": "e64281d38a4bcf040c80bf338570fce22944092f2afd0f2de6a2fcd288ea1c3e",
-    "bytes": 35453749
+    "versionCode": 11,
+    "versionName": "1.2",
+    "url": "https://github.com/lkh37860-pixel/myhome-assist-releases/releases/download/v1.2-build11/home-panel-1.2.apk",
+    "sha256": "eb5773190c341282047d79c7fe5040c5a0a1d43b3d3a4ebd2419c798fcdf071e",
+    "bytes": 46710972
   },
   "admin": {
     "package": "kr.homepanel.admin",
-    "versionCode": 10,
-    "versionName": "1.0-beta",
-    "url": "https://github.com/lkh37860-pixel/myhome-assist-releases/releases/download/v1.0-beta-phone-build10/home-manager-1.0-beta.apk",
-    "sha256": "c31105741308d23799f5e904651e90e0c706f2244f6fb0871f676da79178471e",
-    "bytes": 34764341
+    "versionCode": 11,
+    "versionName": "1.2",
+    "url": "https://github.com/lkh37860-pixel/myhome-assist-releases/releases/download/v1.2-build11/home-manager-1.2.apk",
+    "sha256": "33531ad791a78f0e1a9fc65482b4290751959e7c1f11e1ab6a48d43c44149e62",
+    "bytes": 35757983
   }
 }
