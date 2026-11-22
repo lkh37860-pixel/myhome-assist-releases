@@ -1,20 +1,20 @@
 {
   "schema": 1,
-  "notes": "정식 1.2: 작은 둥근 12시간제 시계·날짜·요일과 오른쪽 아래 실제 날씨, 헤이 서버 호출·음성 답변·F1 라디오 효과음, Google Home 기기 상세 제어를 추가했습니다. 기존 앱 위에 설치하세요. 호출어는 빠른 메뉴에서 인식 파일을 받은 뒤 켭니다.",
+  "notes": "1.5 · 빌드 12: 관리폰 UI·집 위치·알람·타이머·음성 선택·사진 슬라이드쇼·F1 라이브 표시·연결 복구 개선. 자유 대화용 클라우드 AI는 미연결.",
   "panel": {
     "package": "kr.homepanel.panel",
-    "versionCode": 11,
-    "versionName": "1.2",
-    "url": "https://github.com/lkh37860-pixel/myhome-assist-releases/releases/download/v1.2-build11/home-panel-1.2.apk",
-    "sha256": "eb5773190c341282047d79c7fe5040c5a0a1d43b3d3a4ebd2419c798fcdf071e",
-    "bytes": 46710972
+    "versionCode": 12,
+    "versionName": "1.5",
+    "url": "https://github.com/lkh37860-pixel/myhome-assist-releases/releases/download/v1.5-build12/home-panel-1.5.apk",
+    "sha256": "c71bd484da3a9aa185a9a19a69c2e7e9627f7ea2cee8749b09740e427c895b98",
+    "bytes": 48796631
   },
   "admin": {
     "package": "kr.homepanel.admin",
-    "versionCode": 11,
-    "versionName": "1.2",
-    "url": "https://github.com/lkh37860-pixel/myhome-assist-releases/releases/download/v1.2-build11/home-manager-1.2.apk",
-    "sha256": "33531ad791a78f0e1a9fc65482b4290751959e7c1f11e1ab6a48d43c44149e62",
-    "bytes": 35757983
+    "versionCode": 12,
+    "versionName": "1.5",
+    "url": "https://github.com/lkh37860-pixel/myhome-assist-releases/releases/download/v1.5-build12/home-manager-1.5.apk",
+    "sha256": "993b35a86e3cc57bb2c919ec75476cf7c1ed5a37dbf85377ef4287904de77e47",
+    "bytes": 36512470
   }
 }
